@@ -1,0 +1,15 @@
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task08\obj\Debug\net6.0\Task08.csproj.AssemblyReference.cache
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task08\obj\Debug\net6.0\Task08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task08\obj\Debug\net6.0\Task08.AssemblyInfoInputs.cache
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task08\obj\Debug\net6.0\Task08.AssemblyInfo.cs
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task08\obj\Debug\net6.0\Task08.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task08\bin\Debug\net6.0\Task08.exe
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task08\bin\Debug\net6.0\Task08.deps.json
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task08\bin\Debug\net6.0\Task08.runtimeconfig.json
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task08\bin\Debug\net6.0\Task08.dll
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task08\bin\Debug\net6.0\Task08.pdb
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task08\obj\Debug\net6.0\Task08.dll
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task08\obj\Debug\net6.0\refint\Task08.dll
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task08\obj\Debug\net6.0\Task08.pdb
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task08\obj\Debug\net6.0\Task08.genruntimeconfig.cache
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task08\obj\Debug\net6.0\ref\Task08.dll
