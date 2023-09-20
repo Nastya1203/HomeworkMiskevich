@@ -1,0 +1,15 @@
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task06\bin\Debug\net6.0\Task06.exe
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task06\bin\Debug\net6.0\Task06.deps.json
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task06\bin\Debug\net6.0\Task06.runtimeconfig.json
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task06\bin\Debug\net6.0\Task06.dll
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task06\bin\Debug\net6.0\Task06.pdb
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task06\obj\Debug\net6.0\Task06.csproj.AssemblyReference.cache
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task06\obj\Debug\net6.0\Task06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task06\obj\Debug\net6.0\Task06.AssemblyInfoInputs.cache
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task06\obj\Debug\net6.0\Task06.AssemblyInfo.cs
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task06\obj\Debug\net6.0\Task06.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task06\obj\Debug\net6.0\Task06.dll
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task06\obj\Debug\net6.0\refint\Task06.dll
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task06\obj\Debug\net6.0\Task06.pdb
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task06\obj\Debug\net6.0\Task06.genruntimeconfig.cache
+C:\Users\Roman\Desktop\настя учеба\Homework c#\Task06\obj\Debug\net6.0\ref\Task06.dll
