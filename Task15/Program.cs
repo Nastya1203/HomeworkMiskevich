@@ -16,11 +16,7 @@ int day = GetUserPrint("Введите цифру, обозначающую де
 
 bool IsWeekend (int day)
 {
-    if (day > 5)
-    {
-        return true;
-    }
-    return false;
+    return day > 5;
 }
  
 if (IsWeekend(day))
@@ -31,3 +27,13 @@ if (IsWeekend(day))
  {
     Console.WriteLine("не выходной");
  }
+
+//  bool IsWeekend (int day)
+// {
+//     if (day > 5)
+//     {
+//         return true;
+//     }
+//     return false;
+// }
+ 
