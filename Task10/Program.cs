@@ -18,9 +18,7 @@ int num = GetUserInput("Введите трёхзначное число: ");
 
 int ShowSecondDigit(int number)
 {
-    int firstDigit = number % 100;
-    int thirdDigit = number % 10;
-    return (num % 100 - number % 10) / 10;
+    return number / 10 % 10;
 }
  
  int showSecondDigit = ShowSecondDigit(num);
