@@ -4,7 +4,6 @@
 // 6, 1, 33 -> [6, 1, 33]
 
 
-
 int[] CreateArrarRndint(int size, int min, int max)
 {
     int[] arr = new int[size];
@@ -25,6 +24,6 @@ void PrintArray(int[] arr)
         else Console.Write($"{arr[i]}]");
     }
 }
-int[] array = CreateArrarRndint(8, 1, 8);
+int[] array = CreateArrarRndint(8, 1, 20);
 PrintArray(array);
 
